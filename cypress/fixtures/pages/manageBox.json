@@ -1,0 +1,7 @@
+{
+    "boxex":".layout-1__header-wrapper-fixed  [href='/account/boxes']",
+    "boxInMyBoxes":".user-card",
+    "settingsOfTheBox":".layout-1__header-wrapper-fixed .toggle-menu-button--inner",
+    "fieldForDeleting":":nth-child(2) > .form-page-group__main .frm",
+    "deleteButton":".btn-service"
+}

@@ -1,0 +1,5 @@
+{
+  "createBox": ".home-page-buttons .btn-main",
+  "arrowRight": ".btn-arrow-right",
+  "submitButton": ".btn-main"
+}

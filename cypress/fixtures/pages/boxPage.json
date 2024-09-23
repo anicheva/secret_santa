@@ -1,0 +1,8 @@
+{
+  "identifier": "div:nth-child(3) > input",
+  "boxNameField": ":nth-child(1) > .frm",
+  "sixthIcon": ":nth-child(6) > .picture_svg_wrapper",
+  "giftPriceToggle": ".switch__toggle",
+  "maxAnount": ".MuiGrid-grid-xs-5 .frm",
+  "currency": ".MuiGrid-grid-xs-7 .frm",
+  "tabsMenu":".layout-1__header-wrapper-fixed .toggle-menu-item span"}
